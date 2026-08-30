@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "040",
+    "312",
+    "050"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_block"
+    },
+    "1": {
+      "item": "polycontent:enchanted_golden_carrot"
+    },
+    "2": {
+      "item": "polycontent:enchanted_golden_pumpkin_slice"
+    },
+    "3": {
+      "item": "polycontent:enchanted_golden_beetroot"
+    },
+    "5": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "4": {
+      "item": "polycontent:experience_bucket"
+    }
+  },
+  "result": {
+    "id": "polycontent:infinity_enchanted_golden_betrico",
+    "count": 1
+  }
+}

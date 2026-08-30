@@ -1,0 +1,7 @@
+{
+  "parent": "block/chain",
+  "textures": {
+    "all": "polycontent:block/golden_chain",
+    "particle": "polycontent:block/golden_chain"
+  }
+}

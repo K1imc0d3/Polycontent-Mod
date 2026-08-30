@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "000",
+    "000",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sweet_berries"
+    }
+  },
+  "result": {
+    "id": "polycontent:sweet_berry_block",
+    "count": 1
+  }
+}

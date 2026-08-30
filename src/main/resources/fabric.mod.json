@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "polycontent",
+  "version": "${version}",
+  "name": "polycontent",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "CC BY-NC-SA 4.0",
+  "icon": "assets/polycontent/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "name.k1imc0d3.polycontent.client.PolycontentDataGenerator"
+    ],
+    "client": [
+      "name.k1imc0d3.polycontent.client.PolycontentClient"
+    ],
+    "main": [
+      "name.k1imc0d3.polycontent.Polycontent"
+    ]
+  },
+  "mixins": [
+    "polycontent.mixins.json",
+    {
+      "config": "polycontent.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

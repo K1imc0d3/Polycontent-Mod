@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern": [
+    "000",
+    "000",
+    " 1 "
+  ],
+  "key": {
+    "0": {
+      "item": "polycontent:enchanted_golden_beetroot"
+    },
+    "1": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "id": "polycontent:enchanted_golden_beetroot_soup",
+    "count": 1
+  }
+}

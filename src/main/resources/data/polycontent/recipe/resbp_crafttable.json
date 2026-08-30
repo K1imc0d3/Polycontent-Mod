@@ -1,0 +1,18 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:sugar"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "polycontent:sweet_berry_block"
+    }
+  ],
+  "result": {
+    "id": "polycontent:sweet_berry_pie",
+    "count": 1
+  }
+}

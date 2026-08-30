@@ -1,0 +1,8 @@
+{
+  "asset_id": "polycontent.enchants_template",
+  "template_item": "polycontent:enchants_template",
+  "description": {
+    "translate": "item.polycontent.enchants_template"
+  },
+  "decal": false
+}

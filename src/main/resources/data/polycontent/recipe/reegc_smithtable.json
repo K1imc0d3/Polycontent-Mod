@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "polycontent:enchants_template"
+  },
+  "base": {
+    "item": "minecraft:golden_carrot"
+  },
+  "addition": {
+    "item": "polycontent:experience_bucket"
+  },
+  "result": {
+    "id": "polycontent:enchanted_golden_carrot",
+    "count": 1
+  }
+}

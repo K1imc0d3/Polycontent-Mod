@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "000",
+    "010",
+    "000"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gold_nugget"
+    },
+    "1": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "id": "polycontent:golden_lantern",
+    "count": 1
+  }
+}

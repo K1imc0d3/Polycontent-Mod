@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "   ",
+    "000",
+    "   "
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "id": "polycontent:chainmail",
+    "count": 1
+  }
+}

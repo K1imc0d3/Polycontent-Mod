@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": {
+    "item": "minecraft:tropical_fish"
+  },
+  "result": {
+    "id": "polycontent:cooked_tropical_fish",
+    "count": 1
+  }
+}

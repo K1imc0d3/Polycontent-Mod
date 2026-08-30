@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": {
+    "item": "polycontent:enchants_template"
+  },
+  "base": {
+    "item": "polycontent:golden_beetroot"
+  },
+  "addition": {
+    "item": "polycontent:experience_bucket"
+  },
+  "result": {
+    "id": "polycontent:enchanted_golden_beetroot",
+    "count": 1
+  }
+}
